@@ -1,0 +1,66 @@
+name: Volanti
+main: com.computerdude.volanti.Main
+version: 1.2.5
+author: ComputerDude
+website: http://volantiskygrid.enjin.com/
+depend: [Vault]
+commands:
+   shop:
+      description:  Opens the Shop Menu
+      usage: /<command>
+   console:
+      description:  Not4u
+      usage: /<command>
+   adminmode:
+      description:  Not4u
+      aliases: [am]
+      usage: /<command>
+   givemindgem:
+      description:  Not4u
+      aliases: [givemg]
+      usage: /<command>
+   eshop:
+      description:  Opens the Enchant Shop
+      usage: /<command>
+   givesco:
+      description:  Give a Scout Rank Claim Sheet
+      usage: /<command>
+   giveadv:
+      description:  Give an Adventurer Rank Claim Sheet
+      usage: /<command>
+   givekni:
+      description:  Give a Knight Rank Claim Sheet
+      usage: /<command>
+   giveduk:
+      description:  Give a Duke Rank Claim Sheet
+      usage: /<command>
+   giveemp:
+      description:  Give an Emperor Rank Claim Sheet
+      usage: /<command>
+   titles:
+      description:  Opens the Titles menu
+      usage: /<command>
+   stafftag:
+      description:  Not4u
+      usage: /<command>
+   wild:
+      description:  Teleport to a random location on the grid
+      usage: /<command>
+   givesuncalc:
+      description:  Not4u
+      usage: /<command>
+   givesugarcake:
+      description:  Not4u
+      usage: /<command>
+   givequestbook:
+      description:  Not4u
+      usage: /<command>
+   fixcake:
+      description:  Not4u
+      usage: /<command>
+   sshop:
+      description:  Opens the Special Item Shop GUI
+      usage: /<command>
+   gshop:
+      description:  Opens the Gadget Shop GUI
+      usage: /<command>
